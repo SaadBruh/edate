@@ -1,0 +1,32 @@
+.form {
+    margin: 80px;
+    padding: 180px ;
+
+}
+
+.form-signin{
+    margin: 0 auto;
+    max-width: 380px;
+    background-color: #fff;
+    padding: 15px 40px 50px;
+    border: 1px solid #e5e5e5;
+    border-radius: 10px;
+
+}
+
+img {
+    display: flex;
+    max-width: 300px;
+    justify-content: center;
+}
+
+.form-signin .form-signing-heading, .form-signin .checkbox {
+ margin-bottom: 20px;
+ margin-top: 0px;
+}
+
+.form-signin .form-control {
+  margin-bottom: 20px;
+  margin-top: 20px;
+  padding: 10px;
+}
